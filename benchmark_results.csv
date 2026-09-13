@@ -1,0 +1,5 @@
+timestamp,npc,total_latency_sec,model_load_sec,prompt_eval_sec,generation_sec,prompt_tokens,generated_tokens,tokens_per_sec
+2026-09-13T20:41:22,Merchant,8.4425,3.3107,0.1303,4.9131,32,106,21.58
+2026-09-13T20:41:53,Guard,5.4013,0.0979,0.2635,4.9381,44,102,20.66
+2026-09-13T20:42:06,Guard,5.9463,0.1009,0.2511,5.4887,56,107,19.49
+2026-09-13T20:43:15,Merchant,6.1182,0.1015,0.2834,5.6331,63,121,21.48
